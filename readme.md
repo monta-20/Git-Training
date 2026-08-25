@@ -1,6 +1,6 @@
 # Git — Push to a Remote Branch
 
-Explain the **_steps_** to push a local repository to a remote branch.
+Explain the **_steps_** to push a local repository to a remote branch.**
 
 ## Commands
 
